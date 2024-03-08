@@ -1,0 +1,143 @@
+# Creado por https://www.toptal.com/developers/gitignore/api/images,linux,windows,macos
+# Editar en https://www.toptal.com/developers/gitignore?templates=images,linux,windows,macos
+
+### Imágenes ###
+# JPEG
+*.jpg
+*.jpeg
+*.jpe
+*.jif
+*.jfif
+*.jfi
+
+# JPEG 2000
+*.jp2
+*.j2k
+*.jpg
+*.jpx
+*.jpm
+*.mj2
+
+# JPEG XR
+*.jxr
+*.hdp
+*.wdp
+
+# Formato de gráficos intercambeable
+*.gif
+
+# CRUDO
+*.crudo
+
+#WebP
+*.webp
+
+# Gráficos de red portátiles
+*.png
+
+# Gráficos de red portátiles animados
+*.apng
+
+# Gráficos de red de múltiples imágenes
+*.mng
+
+# Formato de archivo de imagen etiquetada
+*.pelea
+*.tif
+
+# Gráficas vectoriales escalables
+*.svg
+*.svgz
+
+# Formato de Documento Portable
+*.pdf
+
+# X mapa de bits
+*.xbm
+
+#BMP
+*.bmp
+*.dib
+
+#ICO
+*.ico
+
+# Imágenes 3D
+*.3dm
+*.máx.
+
+###Linux ###
+*~
+
+# archivos temporales que se pueden crear si un proceso todavía tiene un identificador abierto de un archivo eliminado
+.fuse_hidden*
+
+# Preferencias del directorio de KDE
+.directorio
+
+# Carpeta de basura de Linux que puede aparecer en cualquier partición o disco.
+.Basura-*
+
+# Los archivos .nfs se crean cuando se elimina un archivo abierto pero aún se accede a él
+.nfs*
+
+### Mac OS ###
+# General
+.DS_Tienda
+.AppleDoble
+.LSAnular
+
+# El icono debe terminar con dos \r
+Icono
+
+
+# Miniaturas
+._*
+
+# Archivos que pueden aparecer en la raíz de un volumen.
+.DocumentRevisions-V100
+.fseventosd
+.Foco-V100
+.Artículos Temporales
+.basura
+.VolumeIcon.icns
+.com.apple.timemachine.nopresente
+
+# Directorios potencialmente creados en recursos compartidos de AFP remotos
+.AppleDB
+.AppleDesktop
+Carpeta de papelera de red
+Artículos temporales
+.apdisk
+
+### Parche de macOS ###
+# Archivos generados por iCloud
+*.icloud
+
+### Ventanas ###
+# Archivos de caché de miniaturas de Windows
+Pulgares.db
+Thumbs.db: cifrable
+ehthumbs.db
+ehthumbs_vista.db
+
+# Archivo de volcado
+*.stackdump
+
+# Archivo de configuración de carpeta
+[Dd]esktop.ini
+
+# Papelera de reciclaje utilizada en archivos compartidos
+$RECYCLE.BIN/
+
+# Archivos del instalador de Windows
+*.taxi
+*.msi
+*.msix
+*.msm
+*.msp
+
+# Atajos de Windows
+*.lnk
+
+# Fin de https://www.toptal.com/developers/gitignore/api/images,linux,windows,macos
